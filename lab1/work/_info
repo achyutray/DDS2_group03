@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.4_2 2021.12, Dec  4 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/courses/desdigsys2/2022s//dds222s03/ex-1/lab1
+T_opt
+!s110 1645705598
+VJ^kGh8GU2E864ShoaK[EC1
+04 8 4 work test_dut fast 0
+=1-0010186b93ae-6217797c-75a7e-2aba
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OE;O;2021.4_2;73
+vdut
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1645705595
+!i10b 1
+!s100 cRlKZmD7m5mKSGmDTCi0B3
+I2IX=D7VzT@THSU?ac`cj62
+S1
+R0
+w1645552713
+8dut.v
+Fdut.v
+!i122 0
+L0 5 21
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OE;L;2021.4_2;73
+r1
+!s85 0
+31
+Z6 !s108 1645705594.000000
+Z7 !s107 test_dut.sv|dut_property.sv|dut.v|
+Z8 !s90 -sv|dut.v|dut_property.sv|test_dut.sv|+define+implication_novac|
+!i113 0
+o-sv
+Z9 !s92 -sv +define+implication_novac
+R1
+vdut_property
+R2
+R3
+!i10b 1
+!s100 YSEblmTcL4=Kc_YUZWDC]1
+IzAN0oRBE<?NcA4JK5PfE30
+S1
+R0
+w1645700863
+8dut_property.sv
+Fdut_property.sv
+!i122 0
+L0 1 31
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+o-sv
+R9
+R1
+vtest_dut
+R2
+R3
+!i10b 1
+!s100 fb^Fo1OPEB?GSLH:mlbBK3
+ImT2Z]1cmDjVP6ccbImV0[3
+S1
+R0
+w1645700092
+8test_dut.sv
+Ftest_dut.sv
+!i122 0
+L0 1 70
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+o-sv
+R9
+R1

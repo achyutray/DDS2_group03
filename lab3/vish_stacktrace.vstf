@@ -1,0 +1,14 @@
+# Current time Thu Feb 24 14:54:05 2022
+# Program = vish
+# Id = "2021.4_2"
+# Version = "2021.12"
+# Date = "Dec  4 2021"
+# Platform = "linux"
+# 0    0x08282670: 'vish_catch_signal + 0x0' in '/eda/tools/mentor/questasim.2021.4_2/linux/vish'
+# 1    0xf7fd940b: '<unknown (@0xf7fd940b)>'
+# 2    0xf7fd940b: '<unknown (@0xf7fd940b)>'
+# 3    0x00007883: '<unknown (@0x7883)>'
+# 4    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
